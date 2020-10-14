@@ -1,5 +1,5 @@
 #!/bin/bash
-set -e
+set -ev
 
 # Install coursier
 curl -fLo cs https://git.io/coursier-cli-linux
